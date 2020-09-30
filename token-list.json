@@ -1,0 +1,26 @@
+{
+  "name": "Villa",
+  "logoURI": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1182342014,1234945692&fm=26&gp=0.jpg",
+  "keywords": [
+      "Villa",
+      "villa",
+      "yield",
+      "VILLA"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xd3cc7b0a60603c0d6aad44dff06fb8135fc150e9",
+      "name": "Villa",
+      "symbol": "Villa",
+      "decimals": 18,
+      "logoURI": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1182342014,1234945692&fm=26&gp=0.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
